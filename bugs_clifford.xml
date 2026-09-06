@@ -1,1 +1,44 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<bugs>
+  <bug id="1" priority="moyenne" class="BUG">
+    <reporter>affmal</reporter>
+    <description>dd</description>
+    <title>dd</title>
+    <date>2026-08-30 03:39:50</date>
+    <status>resolu</status>
+    <position x="526.24" y="-3213.70" z="46.31"/>
+  </bug>
+  <bug id="2" priority="haute" class="BUG">
+    <reporter>BGSK</reporter>
+    <description>Mission clifford during Sonar Blip in Ambiant World</description>
+    <title>Sonar Blip during Mission</title>
+    <date>2026-08-30 03:43:23</date>
+    <status>ouvert</status>
+    <position x="537.03" y="-3145.55" z="45.94"/>
+  </bug>
+  <bug id="3" priority="moyenne" class="TODO">
+    <reporter></reporter>
+    <description>Cliffford Credit Cutscene</description>
+    <title>AGT DLC CREDIT CUTSCENE</title>
+    <date>2026-08-30 03:44:02</date>
+    <status>ouvert</status>
+    <position x="537.03" y="-3145.55" z="45.94"/>
+  </bug>
+  <bug id="4" priority="moyenne" class="BUG">
+    <reporter>BGSK</reporter>
+    <description>Horse fail animation during Arab_Horse</description>
+    <title>Horse Script</title>
+    <date>2026-08-30 03:45:19</date>
+    <status>ouvert</status>
+    <position x="1183.16" y="86.22" z="81.89"/>
+  </bug>
+  <bug id="5" priority="moyenne" class="BUG">
+    <reporter></reporter>
+    <description>People on Roof</description>
+    <title>Casino Roof</title>
+    <date>2026-08-30 03:46:09</date>
+    <status>ouvert</status>
+    <position x="933.12" y="46.08" z="113.55"/>
+  </bug>
+</bugs>
