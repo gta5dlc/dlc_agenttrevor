@@ -1,44 +1,30 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<bugs>
-  <bug id="1" priority="moyenne" class="BUG">
-    <reporter>affmal</reporter>
-    <description>dd</description>
-    <title>dd</title>
-    <date>2026-08-30 03:39:50</date>
-    <status>resolu</status>
-    <position x="526.24" y="-3213.70" z="46.31"/>
-  </bug>
-  <bug id="2" priority="haute" class="BUG">
-    <reporter>BGSK</reporter>
-    <description>Mission clifford during Sonar Blip in Ambiant World</description>
-    <title>Sonar Blip during Mission</title>
-    <date>2026-08-30 03:43:23</date>
-    <status>ouvert</status>
-    <position x="537.03" y="-3145.55" z="45.94"/>
-  </bug>
-  <bug id="3" priority="moyenne" class="TODO">
-    <reporter></reporter>
-    <description>Cliffford Credit Cutscene</description>
-    <title>AGT DLC CREDIT CUTSCENE</title>
-    <date>2026-08-30 03:44:02</date>
-    <status>ouvert</status>
-    <position x="537.03" y="-3145.55" z="45.94"/>
-  </bug>
-  <bug id="4" priority="moyenne" class="BUG">
-    <reporter>BGSK</reporter>
-    <description>Horse fail animation during Arab_Horse</description>
-    <title>Horse Script</title>
-    <date>2026-08-30 03:45:19</date>
-    <status>ouvert</status>
-    <position x="1183.16" y="86.22" z="81.89"/>
-  </bug>
-  <bug id="5" priority="moyenne" class="BUG">
-    <reporter></reporter>
-    <description>People on Roof</description>
-    <title>Casino Roof</title>
-    <date>2026-08-30 03:46:09</date>
-    <status>ouvert</status>
-    <position x="933.12" y="46.08" z="113.55"/>
-  </bug>
-</bugs>
+<PerUserData>
+  <User username="Affmal" name="Affmal" aClass="0" todos="0" bClass="0" tasks="0" cClass="0" dClass="0">
+    <WithYouForMoreInfo/>
+    <WithOthersForMoreInfo/>
+    <DevBugs>
+      <Bug id="1" dueDate="0000-00-00" overMonth="false" tags="" class="BUG" summary="Russian Cloack" qaOwner="affmal" createdAt="2026-10-25 14:32:57">
+        <description>problem with agent 14 last stage</description>
+        <status>ouvert</status>
+        <position x="-155.22" y="-2706.48" z="6.01"/>
+      </Bug>
+      <Bug id="2" dueDate="0000-00-00" overMonth="false" tags="" class="BUG" summary="Russian Cloack" qaOwner="Affmal" createdAt="2026-10-25 14:34:06">
+        <description>problem the wrong ped are invisible it's the juggernaut</description>
+        <status>ouvert</status>
+        <position x="-157.09" y="-2706.86" z="6.01"/>
+      </Bug>
+      <Bug id="3" dueDate="0000-00-00" overMonth="false" tags="" class="BUG" summary="Russian Cloack" qaOwner="Affmal" createdAt="2026-10-25 14:34:30">
+        <description>problem the steal stage the prop can't be steal</description>
+        <status>ouvert</status>
+        <position x="-158.13" y="-2708.44" z="6.01"/>
+      </Bug>
+      <Bug id="4" dueDate="0000-00-00" overMonth="false" tags="" class="BUG" summary="Russian AR5" qaOwner="Affmal" createdAt="2026-10-25 15:34:15">
+        <description>todo add Effect kidnap during few seconds</description>
+        <status>ouvert</status>
+        <position x="553.72" y="5940.78" z="-158.08"/>
+      </Bug>
+    </DevBugs>
+    <BugSummary grandTotal="4" totalA="0" totalTodo="0" totalB="0" totalTask="0" totalC="0" totalD="0" totalWish="0"/>
+  </User>
+</PerUserData>
